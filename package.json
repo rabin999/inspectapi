@@ -1,0 +1,29 @@
+{
+  "name": "inspectapi",
+  "version": "1.0.0",
+  "main": "./bin/index.js",
+  "dependencies": {
+    "serve": "^11.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rabin999/inspectapi.git"
+  },
+  "homepage": "https://www.inspectapi.com/",
+  "bin": {
+    "inspectapi": "./bin/index.js"
+  },
+  "license": "MIT",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
