@@ -1,6 +1,6 @@
 {
   "name": "inspectapi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./bin/index.js",
   "dependencies": {
     "serve": "^11.3.2"
